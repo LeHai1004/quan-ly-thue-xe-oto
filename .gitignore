@@ -1,0 +1,28 @@
+
+# Dependencies
+/node_modules
+/vendor
+# Build outputs
+/dist
+/build
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+*.exe
+
+# Database backup
+*.bak
+*.sql.bak
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
